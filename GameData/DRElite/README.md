@@ -26,7 +26,7 @@ Also allows heat shields to fail under extreme thermal stress even when not depl
 
 Tweaks the inflatible heat shield so it's only really safe for grazing/lifting re-entries, you can't just slam into the atmosphere with it.
 
-The DLL uses code from Deadly Reentry, so the module as a whole is CC-BY-SA. See https://github.com/ringerc/KSP-DRE-Lite .
+The DLL uses code from Deadly Reentry, so the module as a whole is CC-BY-SA.
 ### Installation Directions:
 - Use CKAN
 ### Changelog Summary
@@ -89,7 +89,7 @@ License: ![License CC BY-SA 4.0][shield:license] ![][LOGO:ccbysa4]
 
 *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date*
 
-###### v2.0.1.0 original: 01 Oct 2019 zed'K | updated: 16 Mar 2020 zed'K
+###### v0.3.0.0 original: 01 Oct 2019 zed'K | updated: 17 Mar 2020 zed'K
 
 [MOD:license]:      https://github.com/zer0Kerbal/DRElite/blob/master/LICENSE
 [MOD:contributing]: https://github.com/zer0Kerbal/DRElite/blob/master/.github/CONTRIBUTING.md
@@ -98,7 +98,7 @@ License: ![License CC BY-SA 4.0][shield:license] ![][LOGO:ccbysa4]
 [MOD:known]:        https://github.com/zer0Kerbal/DRElite/wiki/Known-Issues
 [MOD:forum]:        https://forum.kerbalspaceprogram.com/index.php?/topic/192456-*
 [MOD:github:repo]:  https://github.com/zer0Kerbal/DRElite/
-[MOD:changelog]:    https://github.com/zer0Kerbal/DRElite/Changelog.cfg
+[MOD:changelog]:    https://raw.githubusercontent.com/zer0Kerbal/DRElite/master/Changelog.cfg
 [KSP:website]:  http://kerbalspaceprogram.com/
 
 <!--- original mod stuff -->
@@ -167,8 +167,8 @@ License: ![License CC BY-SA 4.0][shield:license] ![][LOGO:ccbysa4]
 [thread:BSS]:  http:// "B9 Stock Switches"  
 [thread:HB!]:  http:// "HotBeverages"  
 
-[thread:mm]  http://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "ModuleManager"  
-[thread:mc]:  https://forum.kerbalspaceprogram.com/index.php?/topic/178484-* ""
+[thread:mm]:  http://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "ModuleManager"  
+[thread:mc]:  https://forum.kerbalspaceprogram.com/index.php?/topic/178484-* " "
 [thread:kcl]:  https://forum.kerbalspaceprogram.com/index.php?/topic/179207-* "Kerbal Change Log"  
 [thread:sr]:   https://forum.kerbalspaceprogram.com/index.php?/topic/179306-* "StageRecovery"  
 [thread:kct]: https://forum.kerbalspaceprogram.com/index.php?/topic/182877-* "Kerbal Construction Time"  
