@@ -1,42 +1,91 @@
-#Autosave files
-*~
+﻿# Prerequisites
+*.d
 
-#build
-[Oo]bj/
-[Bb]in/
-packages/
-TestResults/
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
 
-# globs
-Makefile.in
-*.DS_Store
-*.sln.cache
-*.suo
-*.cache
-*.pidb
-*.userprefs
-*.usertasks
-config.log
-config.make
-config.status
-aclocal.m4
-install-sh
-autom4te.cache/
-*.user
-*.tar.gz
-tarballs/
-test-results/
-Thumbs.db
+# Precompiled Headers
+*.gch
+*.pch
 
-#Mac bundle stuff
-*.dmg
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
 *.app
+*.bat
 
-#resharper
-*_Resharper.*
-*.Resharper
+# Compressed
+*.rar
+*.zip
+*.7z
+*.tar
 
-#dotCover
-*.dotCover
+# Documents
+*.markdown
+*.doc
+*.docx
+*.xls
+*.xlsx
 
-/ImprovedAblator/GameData/ImprovedAblator/Plugins/
+
+
+# zer0Kerbal common files
+LegalMumboJumbo/
+Archive/
+Old/
+flaticons/
+Links/
+docs/*
+old/*
+NetKAN/*
+images.txt
+shields.md
+buildRelease.bat
+buildReleaseSub.bat
+deploy.bat
+deploySub.bat
+_buildRelease.bat
+_buildReleaseSub.bat
+_deploy.bat
+_deploySub.bat
+mod.version
+regex4loc.txt
+
+# database files
+*.mdb
+*.lock
+*.ide
+*.pdb
+*.cache
+
+# visualStudio files
+.vs/*
+*.ide-wal
+*.suo
+build/*
+*.user
+_ReSharper.*/*
+obj/
+*.opensdf
+*.tlog
+*.log
+TestResult.xml
+

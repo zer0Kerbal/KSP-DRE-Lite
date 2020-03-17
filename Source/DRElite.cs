@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-
+using KSP.Localization;
 using UnityEngine;
 
-namespace ImprovedAblator
+namespace DRElite
 {
 
 	/* A simplified heat shield based on Deadly Reentry
@@ -54,7 +54,7 @@ namespace ImprovedAblator
 				}
 			}
 			else
-				print("Heat shield missing ablativeResource! Probable cause: third party mod using outdated ModuleHeatShield configs.");
+				print(Localizer.Format("#DRElight_000"));
 		}
 
 		public new void FixedUpdate()
