@@ -15,8 +15,8 @@ updated: 2020 03 16 -->
 ![SpaceDock][shield:spacedock] ![CKAN][shield:ckan] ![GitHub][shield:github] ![Curseforge][shield:curseforge]  
 ![Validate AVC .version files][shield:avcvalid]  
 ***
-See [user README](ImprovedAblator/GameData/ImprovedAblator/README.md) for details.
-[IMG:hero:0]
+See [user README](ImprovedAblator/GameData/ImprovedAblator/README.md) for details.  
+![IMG:hero:0]
 ### Preamble by [@ringerc][LINK:ringerc]: 
 >Improved ablators, i.e. "Deadly Re-Entry Lite".
 
@@ -38,8 +38,8 @@ The DLL uses code from Deadly Reentry, so the module as a whole is CC-BY-SA. See
 ### Recomends  
 
 ### Suggests
-- [x] [OhScrap!][thread:ohscrap]  
-- [x] [On Demand Fuel Cells][thread:ODFC  
+- [x] [OhScrap!][thread:ohs]  
+- [x] [On Demand Fuel Cells][thread:ODFC]  
 - [x] [Field Training Facility][thread:FTF]  
 - [x] [Field Training Lab][thread:FTL]  
 - [x] [Transparent Command Pods][thread:TCP]  
@@ -52,19 +52,19 @@ The DLL uses code from Deadly Reentry, so the module as a whole is CC-BY-SA. See
 - [x] [DaMichel's CargoBays][thread:DCB]
 - [x] [DaMichel's Flat Fuselage][thread:DMF]
 - [x] [DaMichel's Spherical Tanks][thread:DST]  
-- [x] [Stork Delivery System (SDS)][thread:SDS]
-- [x] [SimpleConstruction!][thread:SC!]
-- [x] [SimpleLogistics!][thread:SL!]
-- [x] [Not So SimpleConstruction!][thread:NSSC
+- [x] [Stork Delivery System][thread:SDS]  
+- [x] [SimpleConstruction!][thread:SC!]  
+- [x] [SimpleLogistics!][thread:SL!]  
+- [x] [Not So SimpleConstruction!][thread:NSSC]  
 - [x] [Vanguard][thread:VG0]  
 - [x] [ProbiTronics][thread:PRB]  
 - [x] [CTN][thread:CTN]  
-- [x] [B9 Stock Switches][thread:BSS]
-- [x] [HotBeverages][thread:HB!]
+- [x] [B9 Stock Switches][thread:BSS]  
+- [x] [HotBeverages][thread:HB!]  
 - [x] [TweakScale][thread:tweakscale]  
 - [x] [Community Resource Pack][thread:communityresourcepack]  
 - [x] [StageRecovery][thread:sr]  
-- [x] [FAR][thread:far]  
+- [x] [Ferram Aerospace Research (FAR)][thread:far]  
 ### Supports
 - [x] [Kerbal Change Log][thread:kcl]  
 ### Conflicts
@@ -112,8 +112,8 @@ License: ![License CC BY-SA 4.0][shield:license] ![][LOGO:ccbysa4]
 [LOGO:ccbysa4]: https://licensebuttons.net/l/by-sa/4.0/80x15.png
 
 [MOD:rel-github]: https://github.com/zer0Kerbal/DRElite/releases/latest "GitHub"
-[MOD:rel-spacedock]: http://spacedock.info/mod/1746
-[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/DRElite
+[MOD:rel-spacedock]: http://spacedock.info/mod/1889
+[MOD:rel-curseforge]: https://www.curseforge.com/kerbal/ksp-mods/drelite
 [MOD:rel-ckan]: http://forum.kerbalspaceprogram.com/index.php?/topic/90246-*
 
 [image:rel-github]:       https://i.imgur.com/RE4Ppr9.png
@@ -151,27 +151,28 @@ License: ![License CC BY-SA 4.0][shield:license] ![][LOGO:ccbysa4]
 [thread:SYD]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192360-* "ScrapYard"
 [thread:DRL]: https:// "DRElite (DRL)"
 
-[thread:DPD]:  https://github.com/zer0Kerbal/KGEx/tree/master/GameData/KGEx/DockingPortDescriptions
-[thread:PPS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192187-*
-[thread:VG0]:  http:// "Vanguard"
-[thread:PRB]:  http:// "ProbiTronics"
-[thread:CTN]:  http:// "CTN"
-[thread:DST]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's Spherical Tanks"
-[thread:DMF]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's Fuselage"
-[thread:DAR]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's AeroRadial"
-[thread:DCB]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's CargoBays"
-[thread:SDS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "Stork Delivery System (SDS):
-[thread:SC!]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191424-* "SimpleConstructon!"
-[thread:SL!]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191045-* "SimpleLogistics!"
-[thread:NSSC:  https://forum.kerbalspaceprogram.com/index.php?/topic/191504-* "Not So SimpleConstructon!"
-[thread:BSS]:  http:// "B9 Stock Switches"
-[thread:HB!]:  http:// "HotBeverages"
+[thread:DPD]:  https://github.com/zer0Kerbal/KGEx/tree/master/GameData/KGEx/DockingPortDescriptions  
+[thread:PPS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/192187-*  
+[thread:VG0]:  http:// "Vanguard"  
+[thread:PRB]:  http:// "ProbiTronics"  
+[thread:CTN]:  http:// "CTN"  
+[thread:DST]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's Spherical Tanks"  
+[thread:DMF]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's Fuselage"  
+[thread:DAR]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's AeroRadial"  
+[thread:DCB]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "DaMichel's CargoBays"  
+[thread:SDS]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191719-* "Stork Delivery System (SDS)"  
+[thread:SC!]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191424-* "SimpleConstructon!"  
+[thread:SL!]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191045-* "SimpleLogistics!"  
+[thread:NSSC]:  https://forum.kerbalspaceprogram.com/index.php?/topic/191504-* "Not So SimpleConstructon!"  
+[thread:BSS]:  http:// "B9 Stock Switches"  
+[thread:HB!]:  http:// "HotBeverages"  
 
-[thread:mm]: http://forum.kerbalspaceprogram.com/index.php?/topic/50533-*
-[thread:mc]: https://forum.kerbalspaceprogram.com/index.php?/topic/178484-*
-[thread:kcl]: https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*
-[thread:sr]: https://forum.kerbalspaceprogram.com/index.php?/topic/179306-*
-[thread:kct]: https://forum.kerbalspaceprogram.com/index.php?/topic/182877-*
+[thread:mm]  http://forum.kerbalspaceprogram.com/index.php?/topic/50533-* "ModuleManager"  
+[thread:mc]:  https://forum.kerbalspaceprogram.com/index.php?/topic/178484-* ""
+[thread:kcl]:  https://forum.kerbalspaceprogram.com/index.php?/topic/179207-* "Kerbal Change Log"  
+[thread:sr]:   https://forum.kerbalspaceprogram.com/index.php?/topic/179306-* "StageRecovery"  
+[thread:kct]: https://forum.kerbalspaceprogram.com/index.php?/topic/182877-* "Kerbal Construction Time"  
+[thread:far]: https://forum.kerbalspaceprogram.com/index.php?/topic/179445-* "Ferram Aerospace Research"  
 
 [thread:tweakscale]:            https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*
 [thread:communityresourcepack]: http://forum.kerbalspaceprogram.com/index.php?/topic/83007-*
